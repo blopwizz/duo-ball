@@ -14,6 +14,7 @@ Features:
 * bounce sound handled by audio js library Howl
 
 #TODO :
+* get the code from glitch and implement a local version
 * connection screen to choose which side is displayed
 * adapt to all orientation and all device
 * fullscreen or progressive web app integration
